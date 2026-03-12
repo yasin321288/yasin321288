@@ -10,7 +10,7 @@
 
 ---
 
-# 🚀 About Me
+<h1>🚀 About Me</h1>
 
 <img align="right" alt="Coding" width="410" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
@@ -73,7 +73,7 @@ const yasin = {
 
 <br>
 <br>
-##💡 Currently
+💡 Currently
 
 🐳 Learning Docker & Containerization
 
@@ -90,7 +90,7 @@ const yasin = {
 
 <br>
 <br>
-##⚙️ DevOps Learning Journey
+<h1>⚙️ DevOps Learning Journey</h1>
 
 Following a complete DevOps Bootcamp covering the modern DevOps toolchain.
 <br>
@@ -147,13 +147,13 @@ Grafana Monitoring
 
 <br>
 <br>
-##🛠 Tech Stack
+<h1>🛠 Tech Stack</h1>
 <br>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,tailwind,bootstrap,git,github,docker,kubernetes,aws,linux,jenkins,vscode,postman" /> </p>
 
 <br>
 <br>
-##📊 GitHub Stat
+<h1>📊 GitHub Stats</h1>
 <br>
 <div align="center">
 
@@ -165,13 +165,13 @@ Grafana Monitoring
 
 <br>
 <br>
-##📈 Contribution Graph
+<h1>📈 Contribution Graph</h1>
 <br>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin321288&theme=tokyo-night&hide_border=true"/> </p>
 
 <br>
 <br>
-##🤝 Connect With Me
+<h1>🤝 Connect With Me</h1>
 
 💼 LinkedIn
 https://www.linkedin.com/in/yasin-sheikh-101874244
