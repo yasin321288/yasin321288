@@ -72,7 +72,7 @@ const yasin = {
 ```
 
 
-💡 Currently
+##💡 Currently
 
 🐳 Learning Docker & Containerization
 
@@ -88,7 +88,7 @@ const yasin = {
 
 
 
-⚙️ DevOps Learning Journey
+##⚙️ DevOps Learning Journey
 
 Following a complete DevOps Bootcamp covering the modern DevOps toolchain.
 
@@ -144,7 +144,7 @@ Grafana Monitoring
 
 
 
-🛠 Tech Stack
+##🛠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,tailwind,bootstrap,git,github,docker,kubernetes,aws,linux,jenkins,vscode,postman" /> </p>
 📊 GitHub Stats
 <div align="center">
@@ -156,11 +156,11 @@ Grafana Monitoring
 </div>
 
 
-📈 Contribution Graph
+##📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin321288&theme=tokyo-night&hide_border=true"/> </p>
 
 
-🤝 Connect With Me
+##🤝 Connect With Me
 
 💼 LinkedIn
 https://www.linkedin.com/in/yasin-sheikh-101874244
