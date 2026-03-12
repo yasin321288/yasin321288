@@ -70,6 +70,8 @@ const yasin = {
     "I enjoy automating workflows and optimizing systems 🚀"
 };
 ```
+
+
 💡 Currently
 
 🐳 Learning Docker & Containerization
@@ -83,6 +85,8 @@ const yasin = {
 🧠 Practicing DSA & problem solving
 
 (Currently progressing through the DevOps Bootcamp and completing the Docker section.)
+
+
 
 ⚙️ DevOps Learning Journey
 
@@ -110,6 +114,7 @@ Docker Compose
 
 Docker Volumes
 
+
 🚧 Currently Learning
 
 Jenkins
@@ -117,6 +122,7 @@ Jenkins
 CI/CD Pipelines
 
 Jenkins Pipeline Automation
+
 
 📚 Upcoming Technologies
 
@@ -136,6 +142,8 @@ Prometheus
 
 Grafana Monitoring
 
+
+
 🛠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,tailwind,bootstrap,git,github,docker,kubernetes,aws,linux,jenkins,vscode,postman" /> </p>
 📊 GitHub Stats
@@ -146,8 +154,12 @@ Grafana Monitoring
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin321288&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
+
+
 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin321288&theme=tokyo-night&hide_border=true"/> </p>
+
+
 🤝 Connect With Me
 
 💼 LinkedIn
