@@ -91,7 +91,7 @@ const yasin = {
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,tailwind,bootstrap,git,github,docker,kubernetes,aws,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,tailwind,bootstrap,git,github,docker,kubernetes,aws,linux,vscode,postman,jenkins" />
 </p>
 
 ---
@@ -120,6 +120,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin321288&
 
 # 🤝 Connect With Me
 
-- 💼 LinkedIn  
-- 🌐 Portfolio  
-- 📧 Email
+- 💼 LinkedIn : linkedin.com/in/yasin-sheikh-101874244
+- 📧 Email :yasinsheikhofficial@gmail.com
