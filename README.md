@@ -71,7 +71,8 @@ const yasin = {
 };
 ```
 
-
+<br>
+<br>
 ##💡 Currently
 
 🐳 Learning Docker & Containerization
@@ -87,11 +88,12 @@ const yasin = {
 (Currently progressing through the DevOps Bootcamp and completing the Docker section.)
 
 
-
+<br>
+<br>
 ##⚙️ DevOps Learning Journey
 
 Following a complete DevOps Bootcamp covering the modern DevOps toolchain.
-
+<br>
 ✅ Hands-on Experience
 
 Linux & Command Line
@@ -114,7 +116,7 @@ Docker Compose
 
 Docker Volumes
 
-
+<br>
 🚧 Currently Learning
 
 Jenkins
@@ -123,7 +125,7 @@ CI/CD Pipelines
 
 Jenkins Pipeline Automation
 
-
+<br>
 📚 Upcoming Technologies
 
 AWS (EC2, IAM, VPC)
@@ -143,7 +145,8 @@ Prometheus
 Grafana Monitoring
 
 
-
+<br>
+<br>
 ##🛠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,tailwind,bootstrap,git,github,docker,kubernetes,aws,linux,jenkins,vscode,postman" /> </p>
 📊 GitHub Stats
@@ -155,11 +158,13 @@ Grafana Monitoring
 
 </div>
 
-
+<br>
+<br>
 ##📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin321288&theme=tokyo-night&hide_border=true"/> </p>
 
-
+<br>
+<br>
 ##🤝 Connect With Me
 
 💼 LinkedIn
