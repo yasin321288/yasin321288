@@ -120,5 +120,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin321288&
 
 # 🤝 Connect With Me
 
-- 💼 LinkedIn : linkedin.com/in/yasin-sheikh-101874244
+- 💼 LinkedIn : https://www.linkedin.com/in/yasin-sheikh-101874244
 - 📧 Email :yasinsheikhofficial@gmail.com
