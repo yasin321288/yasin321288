@@ -70,108 +70,77 @@ const yasin = {
     "I enjoy automating workflows and optimizing systems 🚀"
 };
 ```
+<br> <br>
 
-<br>
-<br>
 💡 Currently
 
-🐳 Learning Docker & Containerization
-
-⚙️ Exploring DevOps architecture & CI/CD pipelines
-
-🤖 Building projects using Machine Learning
-
+🐳 Working with Docker & Containerization
+⚙️ Building CI/CD pipelines using Jenkins
+☁️ Learning AWS (EC2, IAM, VPC)
+☸️ Exploring Kubernetes (Minikube, Deployments, Services, Ingress)
 💻 Developing Full Stack MERN applications
-
 🧠 Practicing DSA & problem solving
 
-(Currently progressing through the DevOps Bootcamp and completing the Docker section.)
+(Currently progressing through the DevOps Bootcamp and completed Kubernetes till Ingress.)
 
-
-<br>
-<br>
+<br> <br>
 <h1>⚙️ DevOps Learning Journey</h1>
 
 Following a complete DevOps Bootcamp covering the modern DevOps toolchain.
-<br>
-✅ Hands-on Experience
-
-Linux & Command Line
-
-Shell Scripting
-
-Git & Version Control
-
-Cloud Server Setup
-
-Nexus Repository Manager
-
-Docker Containers
-
-Docker Images
-
-Dockerfile
-
-Docker Compose
-
-Docker Volumes
 
 <br>
-🚧 Currently Learning
 
-Jenkins
+## ✅ Hands-on Experience
 
-CI/CD Pipelines
+### 🐧 System & Networking
+- Linux & Command Line  
+- Shell Scripting & Environment Variables  
 
-Jenkins Pipeline Automation
+### 🔧 Version Control & Build Tools
+- Git (Branching, Merging, Rebase)  
+- Build Tools (Maven/Gradle concepts)  
 
-<br>
-📚 Upcoming Technologies
+### 📦 Artifact Management
+- Nexus Repository Manager  
 
-AWS (EC2, IAM, VPC)
+### 🐳 Containerization
+- Docker (Images, Containers, Dockerfile)  
+- Docker Compose & Volumes  
+- Deploying containerized applications  
 
-Kubernetes
+### ⚙️ CI/CD & Automation
+- Jenkins (Freestyle & Pipeline Jobs)  
+- Jenkinsfile & Pipeline Automation  
+- Webhooks for automated deployments  
 
-Helm
+### ☁️ Cloud (AWS Basics)
+- EC2, IAM, VPC  
+- AWS CLI  
 
-Terraform (Infrastructure as Code)
-
-Ansible (Configuration Management)
-
-Python for DevOps Automation
-
-Prometheus
-
-Grafana Monitoring
-
-
-<br>
-<br>
-<h1>🛠 Tech Stack</h1>
-<br>
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,tailwind,bootstrap,git,github,docker,kubernetes,aws,linux,jenkins,vscode,postman" /> </p>
-
-<br>
-<br>
-<h1>📊 GitHub Stats</h1>
-<br>
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasin321288&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin321288&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+### ☸️ Kubernetes (Hands-on)
+- Minikube & kubectl  
+- Deployments, Services, Namespaces  
+- YAML Configuration  
+- Ingress (external access)  
 
 <br>
-<br>
-<h1>📈 Contribution Graph</h1>
-<br>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin321288&theme=tokyo-night&hide_border=true"/> </p>
+
+## 🚧 Currently Learning
+- Kubernetes Volumes  
+- ConfigMaps & Secrets  
+- StatefulSets  
 
 <br>
-<br>
-<h1>🤝 Connect With Me</h1>
+
+## 📚 Upcoming Technologies
+- Helm  
+- AWS EKS  
+- Terraform (Infrastructure as Code)  
+- Ansible (Configuration Management)  
+- Python for DevOps Automation  
+- Prometheus  
+- Grafana Monitoring  
+<br> <br> <h1>🛠 Tech Stack</h1> <br> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,tailwind,bootstrap,git,github,docker,kubernetes,aws,linux,jenkins,vscode,postman" /> </p> <br> <br> <h1>📊 GitHub Stats</h1> <br> <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasin321288&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin321288&layout=compact&langs_count=8&theme=tokyonight"/> </div> <br> <br> <h1>📈 Contribution Graph</h1> <br> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin321288&theme=tokyo-night&hide_border=true"/> </p> <br> <br> <h1>🤝 Connect With Me</h1>
 
 💼 LinkedIn
 https://www.linkedin.com/in/yasin-sheikh-101874244
