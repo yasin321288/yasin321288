@@ -142,19 +142,7 @@ Following a complete DevOps Bootcamp covering the modern DevOps toolchain.
 - Grafana Monitoring  
 <br> <br> <h1>🛠 Tech Stack</h1> <br> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,tailwind,bootstrap,git,github,docker,kubernetes,aws,linux,jenkins,vscode,postman" /> </p> <br> <br>
 
-<h1>📊 GitHub Stats</h1>
-
-<br>
-
-<div align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=yasin321288&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin321288&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</div>
-
-<br><br>
+<h1>📊 GitHub Stats</h1> <br> <div align="center"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasin321288&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasin321288&layout=compact&theme=tokyonight"/> </div> <br> <br>
 
 <h1>📈 Contribution Graph</h1> <br> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin321288&theme=tokyo-night&hide_border=true"/> </p> <br> <br> <h1>🤝 Connect With Me</h1>
 
